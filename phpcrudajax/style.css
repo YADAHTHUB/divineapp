@@ -1,0 +1,25 @@
+input{
+	width: 100%;
+	border-right: none;
+	border-top: none;
+	
+
+}
+table{
+	border: none;
+}
+.name{
+	display: flex;
+	width: 100%;
+	justify-content: space-between;
+}
+.name div{
+	display: flex;
+	flex-direction: column;
+}
+.name div{
+	width: 49%;
+}
+label{
+	margin-bottom: 6px;
+}
